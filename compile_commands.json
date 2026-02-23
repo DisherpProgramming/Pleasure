@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "D:/Pleasure",
+    "command": "g++ -std=c++17 Src/App.cpp",
+    "file": "App.cpp"
+  }
+]
